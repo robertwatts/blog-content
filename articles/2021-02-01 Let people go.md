@@ -1,6 +1,7 @@
 ---
 date: 2021-02-01T20:45:15.133Z
 title: Let people go
+summary: Don't hold on to people for too long
 ---
 
 If someone comes to you and says something like:
@@ -11,7 +12,7 @@ Let them go. With a happy heart and a sincere smile.
 
 They've come to the end of their time, although they may not have realised it yet and are trying to cling on. It's the natural end of things and it should be accepted.
 
-If they're angling for more money they are fighting yesterday's war. They have probably asked for more money and you've been unable to match their demands, either because it's not viable or they're not worth it.
+If they're angling for more money they are fighting yesterday's war. They have probably asked for more money already and you were been unable to match their demands, either because it's not viable or they're not worth it.
 
 Or perhaps you didn't listen when they told you or perhaps you didn't fight hard enough for them when it came to it. If, as a manager, you are surprised by this turn of events then you need to learn from this.
 

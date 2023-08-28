@@ -1,6 +1,7 @@
 ---
 date: 2021-04-01T20:45:15.133Z
-title: Writing PR descriptions
+title: How to write PR descriptions
+summary: Wonderbly's guide to the art of creating a good PR
 ---
 
 <mark>The words below are part of the Wonderbly developer guide. I contributed a little but this is mainly the work of [Hraban Luyat](https://www.linkedin.com/in/hraban/) and [Lev Perlman](https://www.linkedin.com/in/justlev2/). They are great devs and I am grateful to have worked with them both.</mark>

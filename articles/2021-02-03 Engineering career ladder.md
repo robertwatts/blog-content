@@ -1,6 +1,7 @@
 ---
 date: 2021-02-03T20:45:15.133Z
 title: Engineering career ladder
+summary: A structured career ladder for small engineering teams
 ---
 
 <mark>This note was orginally written for the [Wonderbly](https://www.wonderbly.com) dev team in 2017. At the time, the team had about 20 devs, split into three squads, each with a tech lead who was also the line manager. I have since shared it with a few other folks within other companies, who have found it useful. Adding here for posterity.</mark>

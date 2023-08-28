@@ -1,6 +1,7 @@
 ---
 date: 2021-03-01T20:45:15.133Z
 title: Coding for other people
+summary: Wonderbly's guide to being a considerate developer, written by Hraban Luyat 
 ---
 
 <mark>The words below are part of the Wonderbly developer guide. All credit should go to [Hraban Luyat](https://www.linkedin.com/in/hraban/). He's an incredibly smart guy and you'll be lucky to have him on your team.</mark>

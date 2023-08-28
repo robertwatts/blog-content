@@ -1,6 +1,8 @@
 ---
 date: 2021-01-31T20:45:15.133Z
 title: Simple sprint planning
+summary: This note outlines a simple process for managing a backlog of work. It is basically a  slimmed down version of Scrum. Or a mildly pimped up version of Kanban.
+
 ---
 
 This note outlines a simple process for managing a backlog of work. It is basically a  slimmed down version of Scrum. Or a mildly pimped up version of Kanban.

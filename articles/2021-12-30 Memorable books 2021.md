@@ -1,6 +1,7 @@
 ---
 date: 2021-12-30T20:45:15.133Z
 title: Memorable books of 2021
+summary: Books I read in 2021 that I will remember for a long time.
 ---
 
 Here's some of the books I read in 2021 that stood out:
